@@ -1,0 +1,5 @@
+# Exclude model files
+*.pt
+
+# Exclude the VM folder
+military-detection/
