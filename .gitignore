@@ -1,5 +1,5 @@
 # Do not exclude model files in /CustomModels folder
-!CustomModels/*.pt
+!CustomModels/
 
 # Exclude downloadable models
 *.pt
