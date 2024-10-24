@@ -1,5 +1,8 @@
-# Exclude model files
+# Exclude downloadable models
 *.pt
+
+# Do not exclude model files in /CustomModels folder
+!CustomModels/*.pt
 
 # Exclude the VM folder
 military-detection/
